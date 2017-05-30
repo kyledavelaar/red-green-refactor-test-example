@@ -1,0 +1,11 @@
+{
+  "name": "red-green-refactor",
+  "version": "1.0.0",
+  "description": "an example how to use the red, green, refactor testing model",
+  "author": "kyle davelaar",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.0",
+    "mocha": "^3.4.2"
+  }
+}
