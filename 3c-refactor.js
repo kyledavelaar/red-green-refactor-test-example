@@ -48,4 +48,5 @@ function test(n, times, actual) {
 
 }
 
+
 //TO TEST: $ mocha 3c-refactor
