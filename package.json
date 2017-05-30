@@ -1,7 +1,7 @@
 {
   "name": "red-green-refactor",
   "version": "1.0.0",
-  "description": "an example how to use the red, green, refactor testing model",
+  "description": "An example how to use the red, green, refactor testing model.",
   "author": "kyle davelaar",
   "license": "ISC",
   "dependencies": {
