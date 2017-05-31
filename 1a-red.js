@@ -11,7 +11,7 @@ function roman(n) {
 describe('roman function', () => {
   
   it('should return a string', () => {
-    assert.isString(roman(10), "X");
+    assert.isString(roman(10), true);
   });
   
   it('should return X for 10', () => {

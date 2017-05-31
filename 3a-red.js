@@ -23,7 +23,7 @@ function test(n, times, actual) {
   
   describe('roman function', () => {
     it('should return a string', () => {
-      assert.isString(roman(n, times), actual);
+      assert.isString(roman(n, times), true);
     });
     
     it(`should return ${actual} for ${n}`, () => {
