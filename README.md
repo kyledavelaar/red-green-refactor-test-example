@@ -9,4 +9,4 @@ Learn how to use a very common testing paradigm in JavaScript.
   4. npm install (this will download mocha and chai)
   5. follow the files sequentially and run the tests commented at the bottom of each file
   
-Cheers, Kyle
+Best, Kyle
